@@ -71,9 +71,13 @@ root.render(
     <Merried />
     <Objeto />
     <Doble />
-    <Greating />
-    <NuevaFuction />
+    {/* <NuevaFuction /> */}
     <Producto/>
     <Navbar/>
+    <Greating title = "hola 1"/>
+    <Greating title = "hola 2"/>
+    <Greating title = "hola 3"/>
+    <Greating title = "hola 4"/>
+    <Greating title = "hola 5"/>
   </>
 );
